@@ -1,0 +1,28 @@
+html
+{
+    background: #fff url("/header.jpg") no-repeat 0 0;
+    color: #111;
+    font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    font-size: 100%;
+    line-height: 1.3em;
+    margin: 0;
+    padding: 25em 2em 2em 2em;
+}
+
+body
+{
+    margin: 0;
+    width: 40em;
+}
+
+h1, h2, h3, h4
+{
+    font-family: 'Menlo', 'Bitstream Vera Sans', 'Consolas', 'Monaco', Courier, mono;
+    font-size: 1.2em;
+    margin: 2em 0;
+}
+
+a, a:link, a:active, a:visited, a:hover
+{
+    color: #111;
+}
